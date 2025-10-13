@@ -1,6 +1,7 @@
-![1](https://github.com/user-attachments/assets/5ae1e739-288f-4e0c-99e3-bbd43ce68a11)
-![2](https://github.com/user-attachments/assets/c923f95c-b5fe-4905-8919-ef6fb20c8632)
 
+<img src="https://github.com/user-attachments/assets/bb44b024-76be-43db-aa4b-7376f2530db0" width="1100" height="550" alt="Demo GIF">
+<img width="1580" height="396" alt="Curious and driven CS student passionate about AI, Machine Learning, and creating tech that makes an impact  Currently exploring software development and UIUX design, while sharpening my skills in" src="https://github.com/user-attachments/assets/c97fe803-e48d-4347-9e98-d7a9832adbfe" />
+<img width="1584" height="396" alt="Languages (1)" src="https://github.com/user-attachments/assets/5840ed05-135c-401d-a2e4-54d7426356bf" />
 
 <div align="center">
 
