@@ -36,7 +36,7 @@
       <td><i>Movie Website</i></td>
       <td><i>A dynamic movie showcase website built using HTML, CSS, and JavaScript. This project aims to provide users with an engaging platform to explore and discover movies</i></td>
       <td><i>Html,Css,Js</i></td>
-      <td><a href="https://suriyathiru68.github.io/Movie-Website/" style="color: purple;">Visit</a></td>
+      <td><a href="https://popcorniq-pearl.vercel.app/" style="color: purple;">Visit</a></td>
     </tr>
     <tr>
       <td><i>Game Store</i></td>
@@ -45,15 +45,9 @@
       <td><a href="https://suriyathiru68.github.io/Game-Store/" style="color: purple;">Visit</a></td>
     </tr>
     <tr style="background-color: #f2f2f2;">
-      <td><i>Data Visualizer</i></td>
-      <td><i>Web app for interactive data visualization using charts.</i></td>
-      <td><i>React, Chart.js</i></td>
-      <td><a href="#" style="color: purple;">Visit</a></td>
-    </tr>
-    <tr>
-      <td><i>Task Manager App</i></td>
-      <td><i>Full-stack to-do app with user authentication.</i></td>
-      <td><i>MERN Stack</i></td>
+      <td><i>CodeEventNotify</i></td>
+      <td><i>It's a complete event management and notification system for coding events, offering calendars, forms, stats, and alerts.</i></td>
+      <td><i>React, Tsx</i></td>
       <td><a href="#" style="color: purple;">Visit</a></td>
     </tr>
   </tbody>
