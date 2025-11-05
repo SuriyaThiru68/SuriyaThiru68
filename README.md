@@ -86,7 +86,7 @@
     <tr>
       <td><i>GeeksforGeeks</i></td>
       <td><a href="https://www.geeksforgeeks.org/user/suriyathpeh3/" style="color: purple;">Visit</a></td>
-      <td>30++</td>
+      <td>30+</td>
     </tr>
   </tbody>
 </table>
