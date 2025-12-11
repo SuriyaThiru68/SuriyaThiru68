@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#c24bff"/>
+      <stop offset="100%" stop-color="#ff3cff"/>
+    </linearGradient>
+  </defs>
+
+  <!-- TEXT COLOR CHANGES IN LIGHT MODE -->
+  <style>
+    @media (prefers-color-scheme: light) {
+      .txt { fill: #000; }
+    }
+    @media (prefers-color-scheme: dark) {
+      .txt { fill: #fff; }
+    }
+    .header { fill: url(#grad); font-weight: 700; font-size: 20px; }
+    .txt { font-size: 16px; font-family: 'Segoe UI', sans-serif; }
+  </style>
+
+  <!-- LANGUAGES -->
+  <text x="150" y="40" class="header">LANGUAGES</text>
+  <text x="150" y="75" class="txt">• Python</text>
+  <text x="150" y="105" class="txt">• Java</text>
+  <text x="150" y="135" class="txt">• C</text>
+  <text x="150" y="165" class="txt">• JavaScript</text>
+
+  <!-- DEVELOPMENT -->
+  <text x="420" y="40" class="header">DEVELOPMENT</text>
+  <text x="420" y="75" class="txt">• React</text>
+  <text x="420" y="105" class="txt">• HTML</text>
+  <text x="420" y="135" class="txt">• CSS</text>
+  <text x="420" y="165" class="txt">• Tailwind CSS</text>
+
+  <!-- DATABASE -->
+  <text x="690" y="40" class="header">DATABASE</text>
+  <text x="690" y="75" class="txt">• MongoDB</text>
+  <text x="690" y="105" class="txt">• MySQL</text>
+
+  <!-- TOOLS -->
+  <text x="960" y="40" class="header">TOOLS</text>
+  <text x="960" y="75" class="txt">• Git</text>
+  <text x="960" y="105" class="txt">• GitHub</text>
+  <text x="960" y="135" class="txt">• VS Code</text>
+  <text x="960" y="165" class="txt">• WebStorm</text>
+
+</svg>
