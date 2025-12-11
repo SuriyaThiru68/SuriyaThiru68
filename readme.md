@@ -26,13 +26,6 @@
 
 
 
-
-
-
-<img width="1580" height="396" alt="Curious and driven CS student passionate about AI, Machine Learning, and creating tech that makes an impact  Currently exploring software development and UIUX design, while sharpening my skills in (1)" src="https://github.com/user-attachments/assets/1d32b7a3-c239-494e-9e29-d725661c023d" />
-
-<img width="1584" height="396" alt="Languages (1)" src="https://github.com/user-attachments/assets/5840ed05-135c-401d-a2e4-54d7426356bf" />
-
 ## GitHub Status
 ![](https://github-readme-stats.vercel.app/api?username=suriyathiru68&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=suriyathiru68&theme=dark&hide_border=false)
