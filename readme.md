@@ -150,7 +150,7 @@
 </p>
 
 <p style="font-family: 'Anonymous Pro', monospace; margin-bottom: 8px;">
-  <a href="https://yourportfolio.com" style="text-decoration: none;">
+  <a href="https://suriyathiruppathy-portfolio.vercel.app/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=appveyor&logoColor=white" alt="Portfolio Badge">
   </a>
 </p>
