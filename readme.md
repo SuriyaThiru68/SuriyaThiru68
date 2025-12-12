@@ -133,19 +133,19 @@
 
 <p style="font-family: 'Anonymous Pro', monospace; margin-bottom: 8px;">
   <a href="mailto:suriyathiru666@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-your--email%40example.com-purple?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge">
+    <img src="https://img.shields.io/badge/Email-suriyathiru666%40gmail.com-purple?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
 </p>
 
 <p style="font-family: 'Anonymous Pro', monospace; margin-bottom: 8px;">
   <a href="https://www.linkedin.com/in/suriyathiruppathy" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/Linkedin-suriyathiruppathy-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
 
 <p style="font-family: 'Anonymous Pro', monospace; margin-bottom: 8px;">
   <a href="https://github.com/SuriyaThiru68" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
+    <img src="https://img.shields.io/badge/GitHub-SuriyaThiru68-black?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
 </p>
 
