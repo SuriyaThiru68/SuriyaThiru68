@@ -1,10 +1,8 @@
 <div align="center">
- <a class="link" href="https://github.com/codeflowjs/codeflowjs/blame/main/header.svg">
-  <img class="image" src="header.svg" alt="Click to see the source">
- </a>
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=SURIYA%20T&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=fff)
+
 </div>
-
-
 
 <div align="center">
 
@@ -18,11 +16,18 @@
 </p>
 
 </div>
+
+---
+
+## 💻 Skills
+
 <div align="center">
-  <img src="skills.svg" width="100%" />
+
+![Skills](./skills.svg)
+
 </div>
 
-
+---
 
 <div align="center">
 <h2 style="font-weight: bold; text-transform: uppercase;">PROJECTS</h2>
@@ -41,13 +46,13 @@
     <tr style="background-color: #f2f2f2;">
       <td><i>Movie Website</i></td>
       <td><i>A dynamic movie showcase website built using HTML, CSS, and JavaScript. This project aims to provide users with an engaging platform to explore and discover movies</i></td>
-      <td><i>Html,Css,Js</i></td>
+      <td><i>Html, Css, Js</i></td>
       <td><a href="https://popcorniq-pearl.vercel.app/" style="color: purple;">Visit</a></td>
     </tr>
     <tr>
       <td><i>Game Store</i></td>
-      <td><i>AA game store is a place where you can buy Xbox games, consoles, and accessories.</i></td>
-      <td><i>Html,Css,Js</i></td>
+      <td><i>A game store is a place where you can buy Xbox games, consoles, and accessories.</i></td>
+      <td><i>Html, Css, Js</i></td>
       <td><a href="https://suriyathiru68.github.io/Game-Store/" style="color: purple;">Visit</a></td>
     </tr>
     <tr style="background-color: #f2f2f2;">
@@ -59,6 +64,8 @@
   </tbody>
 </table>
 </div>
+
+---
 
 <div align="start">
 
@@ -98,6 +105,8 @@
 </table>
 </div>
 
+---
+
 <div align="start">
 
 <h2 style="font-weight: bold; text-transform: uppercase;">CURRENTLY LEARNING</h2>
@@ -110,6 +119,22 @@
 </ul>
 </div>
 
+---
+
+<div align="center">
+
+<h2 style="font-weight: bold; text-transform: uppercase;">GITHUB STATISTICS</h2>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuriyaThiru68&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=9d4edd&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuriyaThiru68&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuriyaThiru68&theme=tokyonight&hide_border=true&background=0d1117&ring=9d4edd&fire=9d4edd&currStreakLabel=9d4edd" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuriyaThiru68&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=9d4edd&line=9d4edd&point=c9d1d9" />
+
+</div>
+
+---
 
 <div align="start">
 
@@ -138,5 +163,13 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=appveyor&logoColor=white" alt="Portfolio Badge">
   </a>
 </p>
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 
 </div>
