@@ -1,175 +1,139 @@
 <div align="center">
+<img width="100%" height="auto" alt="GitHub Header" src="https://github.com/user-attachments/assets/d9dd62f1-464c-4706-be44-5d4342e471bb" />
+ 
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=SURIYA%20T&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=fff)
-
-</div>
-
-<div align="center">
-
-<p style="max-width: 900px; font-size: 18px; line-height: 1.6;">
-  Curious and driven CS student passionate about AI, Machine Learning, and creating tech that makes an impact.
-</p>
-
-<p style="max-width: 900px; font-size: 18px; line-height: 1.6;">
-  Currently exploring software development and UI/UX design, while sharpening my skills in programming,
-  problem solving, and building creative, user-friendly solutions.
-</p>
+### Full-Stack Developer | AI & ML Enthusiast | Designer
+[![Portfolio](https://img.shields.io/badge/Portfolio-suriyathiruppathy-9D4EDD?style=flat-square&logo=firefox&logoColor=white)](https://suriyathiruppathy-portfolio.vercel.app/)
 
 </div>
 
 ---
 
-## 💻 Skills
+## ABOUT ME
+
+Passionate CS student focused on **AI, Machine Learning, and Web Development**. Building creative, user-friendly solutions with strong problem-solving skills and a commitment to clean code.
+
+---
+
+## TECH STACK
 
 <div align="center">
 
-![Skills](./skills.svg)
+| Category | Skills |
+|----------|--------|
+| **Languages** | Python, Java, JavaScript|
+| **Frontend** | React.js, CSS3, Tailwind css|
+| **Backend** | Node.js, Express |
+| **Tools** | Git, GitHub, VS Code, Vercel |
+| **Specialization** | Web Development, UI/UX, DSA |
 
 </div>
 
 ---
 
-<div align="center">
-<h2 style="font-weight: bold; text-transform: uppercase;">PROJECTS</h2>
+## FEATURED PROJECTS
 
-<table border="1" cellspacing="0" cellpadding="8" 
-       style="border-collapse: collapse; text-align: center; font-family: 'Anonymous Pro', monospace;">
-  <thead style="background-color: #4CAF50; color: white; font-weight: bold; text-transform: uppercase;">
-    <tr style="font-weight: bold;">
-      <th>PROJECT</th>
-      <th>DESCRIPTION</th>
-      <th>TECH STACK</th>
-      <th>VISIT</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color: #f2f2f2;">
-      <td><i>Movie Website</i></td>
-      <td><i>A dynamic movie showcase website built using HTML, CSS, and JavaScript. This project aims to provide users with an engaging platform to explore and discover movies</i></td>
-      <td><i>Html, Css, Js</i></td>
-      <td><a href="https://popcorniq-pearl.vercel.app/" style="color: purple;">Visit</a></td>
-    </tr>
-    <tr>
-      <td><i>Game Store</i></td>
-      <td><i>A game store is a place where you can buy Xbox games, consoles, and accessories.</i></td>
-      <td><i>Html, Css, Js</i></td>
-      <td><a href="https://suriyathiru68.github.io/Game-Store/" style="color: purple;">Visit</a></td>
-    </tr>
-    <tr style="background-color: #f2f2f2;">
-      <td><i>CodeEventNotify</i></td>
-      <td><i>It's a complete event management and notification system for coding events, offering calendars, forms, stats, and alerts.</i></td>
-      <td><i>React, Tsx</i></td>
-      <td><a href="#" style="color: purple;">Visit</a></td>
-    </tr>
-  </tbody>
+<table width="100%">
+<tr>
+<td width="50%">
+
+### Movie Website
+
+Dynamic movie discovery platform with search and filtering capabilities. Modern UI with fully responsive design.
+
+**Tech:** HTML, CSS, JavaScript
+
+[View →](https://popcorniq-pearl.vercel.app/)
+
+</td>
+<td width="50%">
+
+### Game Store
+
+Xbox games & accessories marketplace with shopping functionality. Clean product display and pricing integration.
+
+**Tech:** HTML, CSS, JavaScript
+
+[View →](https://suriyathiru68.github.io/Game-Store/)
+
+</td>
+</tr>
 </table>
-</div>
 
----
+<table width="100%">
+<tr>
+<td>
 
-<div align="start">
+### CodeEventNotify
 
-<h2 style="font-weight: bold; text-transform: uppercase;">CODING PROFILES</h2>
+Complete event management system with analytics, notifications, calendar integration, and user forms.
 
-<table border="1" cellspacing="0" cellpadding="8" 
-       style="border-collapse: collapse; text-align: center; font-family: 'Anonymous Pro', monospace;">
-  <thead style="background-color: #2196F3; color: white; font-weight: bold; text-transform: uppercase;">
-    <tr>
-      <th>PLATFORM</th>
-      <th>PROFILE LINK</th>
-      <th>PROBLEMS SOLVED</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color: #f2f2f2;">
-      <td><i>LeetCode</i></td>
-      <td><a href="https://leetcode.com/u/suriyathiruppathy/" style="color: purple;">Visit</a></td>
-      <td>350+</td>
-    </tr>
-    <tr>
-      <td><i>CodeChef</i></td>
-      <td><a href="https://www.codechef.com/users/kit27am56" style="color: purple;">Visit</a></td>
-      <td>650+</td>
-    </tr>
-    <tr style="background-color: #f2f2f2;">
-      <td><i>HackerRank</i></td>
-      <td><a href="https://www.hackerrank.com/profile/suriyathiru666" style="color: purple;">Visit</a></td>
-      <td>30+</td>
-    </tr>
-    <tr>
-      <td><i>GeeksforGeeks</i></td>
-      <td><a href="https://www.geeksforgeeks.org/user/suriyathpeh3/" style="color: purple;">Visit</a></td>
-      <td>30+</td>
-    </tr>
-  </tbody>
+**Tech:** React, TypeScript
+
+[View →](https://suriyathiruppathy-portfolio.vercel.app/)
+
+</td>
+</tr>
 </table>
+
+---
+
+## COMPETITIVE PROGRAMMING
+
+<div align="center">
+
+| Platform | Problems Solved | Profile |
+|----------|-----------------|---------|
+| **LeetCode** | 350+ | [Visit](https://leetcode.com/u/suriyathiruppathy/) |
+| **CodeChef** | 650+ | [Visit](https://www.codechef.com/users/kit27am56) |
+| **HackerRank** | 30+ | [Visit](https://www.hackerrank.com/profile/suriyathiru666) |
+| **GeeksforGeeks** | 30+ | [Visit](https://www.geeksforgeeks.org/user/suriyathpeh3/) |
+
+</div>
+
+---
+# GITHUB STATS:
+![](https://github-readme-stats.vercel.app/api?username=SuriyaThiru68&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SuriyaThiru68&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuriyaThiru68&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SuriyaThiru68&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=SuriyaThiru68&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=SuriyaThiru68&theme=dark) 
+---
+
+## LEARNING
+
+<div align="center">
+
+| Skill | Level |
+|-------|-------|
+| **React.js** | Intermediate |
+| **Node.js** | Beginner |
+| **TypeScript** | Beginner |
+| **Machine Learning** | Intermediate |
+
 </div>
 
 ---
 
-<div align="start">
+## HIGHLIGHTS
 
-<h2 style="font-weight: bold; text-transform: uppercase;">CURRENTLY LEARNING</h2>
-
-<ul style="font-family: 'Anonymous Pro', monospace; list-style-type: none; padding-left: 0;">
-  <li style="margin-bottom: 8px;"><i>React.js</i> — <b>Intermediate</b></li>
-  <li style="margin-bottom: 8px;"><i>Node.js</i> — <b>Beginner</b></li>
-  <li style="margin-bottom: 8px;"><i>TypeScript</i> — <b>Beginner</b></li>
-  <li style="margin-bottom: 8px;"><i>Machine Learning</i> — <b>Intermediate</b></li>
-</ul>
-</div>
+- 350+ DSA problems solved across multiple platforms
+- Strong algorithmic and data structure foundation
+- Experience with modern UI/UX design principles
+- Production-ready web applications built
+- Exploring AI/ML technologies
+- Responsive design expertise
 
 ---
 
 <div align="center">
 
-<h2 style="font-weight: bold; text-transform: uppercase;">GITHUB STATISTICS</h2>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuriyaThiru68&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=9d4edd&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuriyaThiru68&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuriyaThiru68&theme=tokyonight&hide_border=true&background=0d1117&ring=9d4edd&fire=9d4edd&currStreakLabel=9d4edd" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuriyaThiru68&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=9d4edd&line=9d4edd&point=c9d1d9" />
-
-</div>
-
----
-
-<div align="start">
-
-<h2 style="font-weight: bold; text-transform: uppercase;">CONTACT</h2>
-
-<p style="font-family: 'Anonymous Pro', monospace; margin-bottom: 8px;">
-  <a href="mailto:suriyathiru666@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-suriyathiru666%40gmail.com-purple?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge">
-  </a>
-</p>
-
-<p style="font-family: 'Anonymous Pro', monospace; margin-bottom: 8px;">
-  <a href="https://www.linkedin.com/in/suriyathiruppathy" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Linkedin-suriyathiruppathy-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-</p>
-
-<p style="font-family: 'Anonymous Pro', monospace; margin-bottom: 8px;">
-  <a href="https://github.com/SuriyaThiru68" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-SuriyaThiru68-black?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
-  </a>
-</p>
-
-<p style="font-family: 'Anonymous Pro', monospace; margin-bottom: 8px;">
-  <a href="https://suriyathiruppathy-portfolio.vercel.app/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=appveyor&logoColor=white" alt="Portfolio Badge">
-  </a>
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
-
+[![Email](https://img.shields.io/badge/Email-suriyathiru666@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:suriyathiru666@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-suriyathiruppathy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suriyathiruppathy) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-suriyathiruppathy-9D4EDD?style=flat-square&logo=firefox&logoColor=white)](https://suriyathiruppathy-portfolio.vercel.app/)
 </div>
