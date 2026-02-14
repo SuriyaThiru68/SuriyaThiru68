@@ -48,22 +48,6 @@ Dynamic movie discovery platform with search and filtering capabilities. Modern 
 </td>
 <td width="50%">
 
-### Game Store
-
-Xbox games & accessories marketplace with shopping functionality. Clean product display and pricing integration.
-
-**Tech:** HTML, CSS, JavaScript
-
-[View →](https://suriyathiru68.github.io/Game-Store/)
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td>
-
 ### CodeEventNotify
 
 Complete event management system with analytics, notifications, calendar integration, and user forms.
