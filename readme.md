@@ -2,7 +2,7 @@
 <img width="100%" height="auto" alt="GitHub Header" src="https://github.com/user-attachments/assets/d9dd62f1-464c-4706-be44-5d4342e471bb" />
  
 
-### Full-Stack Developer | AI & ML Enthusiast | Designer
+### Full-Stack Developer | Designer
 [![Portfolio](https://img.shields.io/badge/Portfolio-suriyathiruppathy-9D4EDD?style=flat-square&logo=firefox&logoColor=white)](https://suriyathiruppathy-portfolio.vercel.app/)
 
 </div>
