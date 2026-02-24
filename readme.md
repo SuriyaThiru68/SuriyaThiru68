@@ -41,9 +41,9 @@ Passionate CS student focused on **AI, Machine Learning, and Web Development**. 
 
 Dynamic movie discovery platform with search and filtering capabilities. Modern UI with fully responsive design.
 
-**Tech:** HTML, CSS, JavaScript
+**Tech:** React, JavaScript
 
-[View →](https://popcorniq-pearl.vercel.app/)
+[View →](https://popcorniq-moviewebsite.vercel.app/)
 
 </td>
 <td width="50%">
@@ -52,7 +52,7 @@ Dynamic movie discovery platform with search and filtering capabilities. Modern 
 
 Complete event management system with analytics, notifications, calendar integration, and user forms.
 
-**Tech:** React, TypeScript
+**Tech:** React, JavaScript, Tailwind Css
 
 [View →](https://suriyathiruppathy-portfolio.vercel.app/)
 
