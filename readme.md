@@ -54,7 +54,7 @@ Complete event management system with analytics, notifications, calendar integra
 
 **Tech:** React, JavaScript, Tailwind Css
 
-[View →](https://suriyathiruppathy-portfolio.vercel.app/)
+[View →](https://code-events-track-coding-contests.vercel.app/)
 
 </td>
 </tr>
