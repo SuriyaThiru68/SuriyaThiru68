@@ -65,17 +65,16 @@
 <tr>
 <td width="50%">
 
-### Image Forgery & Deepfake Detection
+### Movie Discovery Platform
 
-AI-powered image verification system using Deep Learning and Computer Vision.
+A dynamic movie showcase website built using HTML, CSS, and JavaScript. This project aims to provide users with an engaging platform to explore and discover movies
 
 **Stack**
-- Python
-- OpenCV
-- CNN
-- TensorFlow
 - React.js
-
+- Node.js
+- MongoDB
+- AI Integration
+  
 </td>
 
 <td width="50%">
