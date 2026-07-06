@@ -1,13 +1,8 @@
- 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:2563EB&height=260&section=header&text=Suriya&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=20" />
-</p>
+  <img src="https://raw.githubusercontent.com/SuriyaThiru68/SuriyaThiru68/main/assets/banner.gif" alt="Banner" width="100%">
+</p> 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI%2FML+Engineer;Building+Intelligent+Applications;Frontend+%2B+Backend+%2B+AI;Competitive+Programmer" />
-</p>
 
----
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,python,tensorflow,pytorch,opencv,js,ts,html,css,tailwind,bootstrap,git,github,vscode,figma" />
